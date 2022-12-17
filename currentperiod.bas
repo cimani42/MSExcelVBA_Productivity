@@ -29,8 +29,8 @@ TODAY = Date
 'TODAY = Worksheets("Sheet1").Cells(11, 2) ' Used as check for output to cell.
 
 'Creating the variables for the start and end dates of each period.
-DecStartDate = DateSerial(20XX, BB, AA)
-DecEndDate = DateSerial(20XX, BB, AC)
+MayStartDate = DateSerial(20XX, BB, AA)
+MayEndDate = DateSerial(20XX, BB, AC)
 
 JanStartDate = DateSerial(20XY, DD, EE)
 JanEndDate = DateSerial(20XY, DD, EF)
